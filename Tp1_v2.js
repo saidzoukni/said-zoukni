@@ -139,5 +139,5 @@ console.log("Le nombre total de secondes est: " + totalSecondes);
 let firstName = readline.question("entrer votre prenom: ");
 let birthYear = readline.questionInt("entrer votre année de naissance: ");
 console.log("votre mot de passe est le: "+firstName+birthYear+"!");
-// ex15
+
 
