@@ -1,7 +1,6 @@
-    const readline = require("readline-sync");
+const readline = require("readline-sync");
 
-
-    //ex1
+//ex1
 let x=5, y=10;
 [x,y] = [y,x];
 console.log("x = "+x, "y = "+y);
